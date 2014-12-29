@@ -13,7 +13,7 @@
     },
     "autoload" : {
         "psr-4" : {
-            "ethanfrogers\\AnalyticsUA\\\\" : "AnalyticsUA/"
+            "ethanfrogers\\AnalyticsUA\\" : "AnalyticsUA"
         }
     }
 }
