@@ -1,0 +1,13 @@
+{
+    "name": "ethanfrogers/yii2-universal-analytics",
+    "authors": [
+        {
+            "name": "Ethan Rogers",
+            "email": "ethan@supplyhog.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php" : ">=5.4.0"
+    }
+}
