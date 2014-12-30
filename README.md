@@ -1,4 +1,4 @@
-Yii2-universal-analytics
+#Yii2-universal-analytics
 
 Forked from [TagPlanet/yii-analytics-ua](https://github.com/TagPlanet/yii-analytics-ua). Modified to work with Yii2 Framework.
 
